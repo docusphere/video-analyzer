@@ -1,5 +1,9 @@
 {
   "name": "video-analyzer",
+  "owner": {
+    "name": "docusphere",
+    "url": "https://github.com/docusphere"
+  },
   "metadata": {
     "display_name": "Video Analyzer",
     "description": "Analyze any video and produce an Agentic Video Transcript (.avt) — structured text with timestamped transcripts, visual descriptions, scene tags, and frame references.",
